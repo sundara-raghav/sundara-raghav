@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sundara-raghav
 - 👀 I’m interested in web developement
-- 🌱 I’m currently learning in K.S.R College of Technology
+- 🌱 I’m currently learning in K.S.Rangasamy College of Technology
 
 
 <!---
