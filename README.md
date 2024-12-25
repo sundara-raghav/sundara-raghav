@@ -1,5 +1,15 @@
-# 💫 About Me:
-🔭 I’m studying in K.S.Rangasamy College of Technology<br><br>🌱 I’m currently learning web development<br>
+# 💫 About Me
+
+Hello, World! 🌍
+
+I am an **Aspiring Web Developer** 🧑‍💻, a **Digital Marketer** 📈, and a **Business Enthusiast** 💼 and **Freelancer** 🌐
+
+---
+
+🎓 Currently pursuing my second year in **Computer Science and Business Systems** at **K.S.Rangasamy College of Technology,Tiruchengode, Namakkal District, Tamil Nadu - 637215, India.**
+
+---
+
 
 
 ## 🌐 Socials:
