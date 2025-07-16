@@ -2,7 +2,7 @@
 
 Hello, World! 🌍
 
-I am an **Aspiring Web Developer** 🧑‍💻, a **Digital Marketer** 📈, and a **Business Enthusiast** 💼 and **Freelancer** 🌐
+I am an **Aspiring Web Developer** 🧑‍💻, **Business Enthusiast** 💼 and **Freelancer** 🌐
 
 ---
 
