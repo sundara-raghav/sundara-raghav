@@ -6,7 +6,7 @@ I am an **Aspiring Web Developer** 🧑‍💻, a **Digital Marketer** 📈, and
 
 ---
 
-🎓 Currently pursuing my second year in **Computer Science and Business Systems** at **K.S.Rangasamy College of Technology,Tiruchengode, Namakkal District, Tamil Nadu - 637215, India.**
+🎓 Currently pursuing my Third year in **Computer Science and Business Systems** at **K.S.Rangasamy College of Technology,Tiruchengode, Namakkal District, Tamil Nadu - 637215, India.**
 
 ---
 
