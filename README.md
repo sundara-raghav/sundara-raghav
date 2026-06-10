@@ -1,5 +1,5 @@
 # About Me:
-A Computer Science and Business Systems student and a full-stack web developer with a strong focus on building clean, scalable, and user-centric web applications. I have hands-on experience in both frontend and backend development, along with a growing interest in cloud technologies, AI tools, and prompt engineering. Through internships, freelancing, and academic projects, I have developed solid problem-solving, communication, and project-handling skills. I am a continuous learner who values professionalism, adaptability, and delivering practical, real-world solutions.
+Computer Science and Business Systems student with a strong interest in Web Development, Cloud Computing, and DevOps. Experienced in building scalable and user-centric web applications through academic projects, internships, and freelance work. Actively engaged in freelancing to gain real-world industry exposure and enhance technical expertise. Skilled in frontend and backend development, with growing proficiency in AI tools, Prompt Engineering, and modern cloud technologies. Possess strong problem-solving, communication, and project management abilities, along with a continuous learning mindset and adaptability to emerging technologies. Passionate about delivering practical, efficient, and impactful software solutions.
 
 
 ## Socials:
