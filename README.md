@@ -1,24 +1,77 @@
-# About Me:
-Computer Science and Business Systems student with a strong interest in Web Development, Cloud Computing, and DevOps. Experienced in building scalable and user-centric web applications through academic projects, internships, and freelance work. Actively engaged in freelancing to gain real-world industry exposure and enhance technical expertise. Skilled in frontend and backend development, with growing proficiency in AI tools, Prompt Engineering, and modern cloud technologies. Possess strong problem-solving, communication, and project management abilities, along with a continuous learning mindset and adaptability to emerging technologies. 
+<!-- ================= ANIMATED WAVE HEADER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5ed,100:2193b0&height=200&section=header&text=Hi%20There!%20I'm%20Sundara%20Raghav&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CSBS%20Student%20|%20Web%20Dev%20|%20Cloud%20|%20DevOps&descAlignY=55&descSize=18" width="100%"/>
+</p>
 
-
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mr.sr_diary/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sundara-raghav-g) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:g.sundararaghav2005@gmail.com) 
-
-# Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sundara-raghav&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sundara-raghav&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sundara-raghav&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sundara-raghav&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-###  Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- ================= ANIMATED TYPING INTRO ================= -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2193B0&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Exploring+Cloud+%26+DevOps;Freelancer+%7C+Problem+Solver;Always+learning+something+new" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sundara-raghav&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+Computer Science and Business Systems student with a strong interest in **Web Development, Cloud Computing, and DevOps**. Experienced in building scalable and user-centric web applications through academic projects, internships, and freelance work. Actively engaged in freelancing to gain real-world industry exposure and enhance technical expertise. Skilled in frontend and backend development, with growing proficiency in **AI tools, Prompt Engineering**, and modern cloud technologies. I bring strong problem-solving, communication, and project management abilities, along with a continuous learning mindset and adaptability to emerging technologies.
+
+- 🔭 Currently building scalable, user-centric web apps
+- 🌱 Growing my skills in Cloud Computing, DevOps & AI tooling
+- 💼 Open to freelance & internship opportunities
+- 📫 Reach me at **g.sundararaghav2005@gmail.com**
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.instagram.com/mr.sr_diary/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sundara-raghav-g" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:g.sundararaghav2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,py,c,aws,firebase,react,nodejs,nextjs,tailwind,bootstrap,flask,express,threejs,mysql,mongodb,git,github,docker,terraform&perline=11" alt="Tech Stack Icons"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat&logo=render&logoColor=white" alt="Render"/>
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=%2300C7B7" alt="Netlify"/>
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white" alt="NPM"/>
+  <img src="https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white" alt="Gunicorn"/>
+  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white" alt="DynamoDB"/>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" alt="Canva"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Power_Bi-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=%23FF7139" alt="Portfolio"/>
+</p>
+
+---
+
+### 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</p>
+
+---
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=100&section=footer" width="100%"/>
+</p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) — enhanced with capsule-render, readme-typing-svg & skillicons.dev -->
